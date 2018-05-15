@@ -7,8 +7,8 @@ Then run download.py for train, validation and test to download images
 
 Then run process.py to save numpy array of labels
 
-|dataset|Number of images|
-|'-----'|'--------------'|
-|train  | 1014544|
-|validation| 9897|
-|test| 39706|
+|Dataset|Number of images|
+|:-----|:--------------|
+|Train  | 1,014,544|
+|Validation| 9,897|
+|Test| 39,706|
